@@ -8,6 +8,8 @@ This repository contains various machine learning projects and exercises aimed a
 
 - **Logistic Regression**: Implementation of logistic regression models to predict whether or not an individual will click on an advert from advertisment dataset. The data for this script is the advertisment CSV file, which uses fake generated data.
 
+- - **NLP using Bag of Words**: Implementing Bag of Words to vectorise text data from yelp reviewers, then building NAive Bayes and Logistic Regression Models to predict if a review was given 1 or 5 stars based on the text data. The data for this script is the yelp CSV file, which was taken from:  https://www.kaggle.com/c/yelp-recsys-2013.
+
 ## Technologies and Tools
 
 - Python
